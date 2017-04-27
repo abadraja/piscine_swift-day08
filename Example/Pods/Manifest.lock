@@ -1,0 +1,16 @@
+PODS:
+  - abadraja2017 (0.1.0)
+
+DEPENDENCIES:
+  - abadraja2017 (from `../`)
+
+EXTERNAL SOURCES:
+  abadraja2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  abadraja2017: d812cf1e164c4529a7f3e5c744c75acbb5c319da
+
+PODFILE CHECKSUM: 51921017db35e11d72a2d80554fd178a307cc909
+
+COCOAPODS: 1.2.1

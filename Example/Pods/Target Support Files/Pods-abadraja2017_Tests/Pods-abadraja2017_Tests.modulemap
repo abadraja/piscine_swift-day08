@@ -1,0 +1,6 @@
+framework module Pods_abadraja2017_Tests {
+  umbrella header "Pods-abadraja2017_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

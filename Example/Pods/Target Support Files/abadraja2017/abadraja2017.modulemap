@@ -1,0 +1,6 @@
+framework module abadraja2017 {
+  umbrella header "abadraja2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
